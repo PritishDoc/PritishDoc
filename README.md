@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritishdoc&label=Profile%20views&color=0e75b6&style=flat" alt="pritishdoc" /> </p>
 
-- 🔭 I’m currently Studing Mca **Plant Disease Prediction**
+- 🔭 I’m currently Studing Mca 
 
 - 🌱 I’m currently learning **OS,ML,DL,DSA**
 
