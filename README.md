@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritishdoc&label=Profile%20views&color=0e75b6&style=flat" alt="pritishdoc" /> </p>
 
-- 🔭 I’m currently Studying Mca 
+- 🔭 I’m completed MCA in 2024
 
 - 🌱 I’m currently learning **OS,ML,DL,DSA**
 
