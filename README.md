@@ -5,7 +5,7 @@
 
 - 🔭 I’m completed MCA in 2024
 
-- 🌱 I’m currently learning **OS,ML,DL,DSA**
+- 🌱 I’m currently learning **Unreal Engine5,OS,ML,DL,DSA**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pritishray/](https://www.linkedin.com/in/pritishray/)
 
