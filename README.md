@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pritishray/](https://www.linkedin.com/in/pritishray/)
 
-- 📄 Know about my experiences [Resume-Pritish.pdf](Resume-Pritish.pdf)
+- 📄 Know about my experiences
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
