@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Pritish Kumar Ray</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pritishdoc&label=Profile%20views&color=0e75b6&style=flat" alt="pritishdoc" />
-</p>
-🔭 I recently completed my MCA in 2024.
-🌱 I’m currently diving deep into Unreal Engine 5, Operating Systems, Machine Learning, Deep Learning, and Data Structures & Algorithms (DSA).
-📝 I regularly share insights and articles on LinkedIn.
-📄 For more about me, check out my detailed resume.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritishdoc&label=Profile%20views&color=0e75b6&style=flat" alt="pritishdoc" /> </p>
+
+- 🔭 I recently completed my MCA in 2024.
+- 🌱 I’m currently diving deep into **Unreal Engine 5, Operating Systems, Machine Learning, Deep Learning, and Data Structures & Algorithms (DSA)**.
+- 📝 I regularly share insights and articles on [LinkedIn](https://www.linkedin.com/in/pritishray/).
+- 📄 For more about me, check out my [detailed resume](https://drive.google.com/file/d/1R31RMtAv5yR6bIJVWO00cb9D1wdXThor/view?usp=sharing).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/pritishray/" target="_blank">
+  <a href="https://www.linkedin.com/in/pritishray/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/__pritish___/" target="_blank">
+  <a href="https://www.instagram.com/__pritish___/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -55,9 +57,11 @@
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="Unreal Engine" width="40" height="40"/>
   </a>
 </p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritishdoc&show_icons=true&locale=en&layout=compact" alt="pritishdoc's top languages" />
 </p>
+
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritishdoc&show_icons=true&locale=en" alt="pritishdoc's GitHub stats" />
 </p>
