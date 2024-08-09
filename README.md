@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritishdoc&label=Profile%20views&color=0e75b6&style=flat" alt="pritishdoc" /> </p>
 
-- 🔭 I recently completed my MCA in 2024.
+- 🔭 I recently completed my MCA.
 - 🌱 I’m currently diving deep into **Unreal Engine 5, Operating Systems, Machine Learning, Deep Learning, and Data Structures & Algorithms (DSA)**.
 - 📝 I regularly share insights and articles on [LinkedIn](https://www.linkedin.com/in/pritishray/).
 - 📄 For more about me, check out my [detailed resume](https://drive.google.com/file/d/1R31RMtAv5yR6bIJVWO00cb9D1wdXThor/view?usp=sharing).
