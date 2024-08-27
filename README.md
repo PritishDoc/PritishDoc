@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritish Kumar Ray</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Backend Develope</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritishdoc&label=Profile%20views&color=0e75b6&style=flat" alt="pritishdoc" /> </p>
 
