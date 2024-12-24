@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Header Image" width="1000" height="200">
+  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Header Image" width="200" height="200">
 </p>
 
 <h1 align="center">👋 Hello, I'm Pritish! 👋</h1>
