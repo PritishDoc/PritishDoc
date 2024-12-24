@@ -47,10 +47,10 @@
 
 ### 📈 Contributions Overview:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritishdoc&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=pritishdoc&theme=github-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pritishdoc&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritishdoc&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
 ---
