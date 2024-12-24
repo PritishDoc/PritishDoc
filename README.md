@@ -1,4 +1,5 @@
-![Header Image](https://github.com/pritishdoc/pritishdoc/blob/main/assets/header-techie.png)
+![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+Pritish's+GitHub+Profile)
+
 <h1 align="center">👋 Hello, I'm Pritish! 👋</h1>
 
 <h3 align="center">A Passionate Backend Developer & Technology Enthusiast</h3>
