@@ -45,6 +45,13 @@
 
 ---
 
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=pritishdoc&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ### ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
