@@ -37,6 +37,13 @@
 
 ---
 
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pritishdoc&theme=juicyfresh&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pritishdoc&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
@@ -59,9 +66,6 @@
 
 ### ✍️ Random Dev Quote:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh
-
 
 ---
 
