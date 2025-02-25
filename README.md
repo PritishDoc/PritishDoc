@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Pritish! 👋</h1>
 
-<h3 align="center">A Passionate Backend Developer & Technology Enthusiast</h3>
+<h3 align="center">A Passionate FullStack Java Developer & Technology Enthusiast</h3>
 
 ---
 
