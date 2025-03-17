@@ -14,7 +14,8 @@
 - 🤖 Passionate about **Machine Learning** and **Deep Learning**.  
 - 🌱 Learning **cutting-edge technologies** and **building scalable solutions**.  
 - ✍️ Regularly sharing insights on [LinkedIn](https://www.linkedin.com/in/pritishray/).  
-- 🗂️ Check out my [Resume]([https://drive.google.com/file/d/17S8o0AaVE0VpdMspZgKKI0_wmKe3FtYh/view?usp=drive_link](https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing).  
+-- 🗂️ Check out my [Resume](https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing).  
+  
 
 ---
 
