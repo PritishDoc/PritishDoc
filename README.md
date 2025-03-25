@@ -27,10 +27,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### Frameworks & Libraries:
-![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white)
+![J2EE](https://img.shields.io/badge/-J2EE-007396?style=flat-square&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
