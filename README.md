@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate FullStack Java Developer & Technology Enthusiast</h3>
 
 ---
-----------------------------------
+
 ### 🚀 About Me:
 - 🎓 **MCA Graduate (2024)**  
 - 🛠️ Currently exploring **Unreal Engine 5**, **Operating Systems**, and **DSA**.  
