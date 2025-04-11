@@ -42,12 +42,13 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pritishdoc&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritishdoc&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=141579651" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=141579651&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @PritishDoc" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=141579651&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 
 ---
 
