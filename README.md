@@ -1,11 +1,3 @@
-<!-- GitHub Dashboard by OSSInsight -->
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=77156401" target="_blank" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77156401&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="GitHub Dashboard of Pritish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77156401&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Header Image" width="500" height="200">
 </p>
@@ -18,15 +10,16 @@
 
 ### 🚀 About Me:
 - 🎓 **MCA Graduate (2024)**  
-- 🛠️ Currently exploring **Unreal Engine 5**, **Operating Systems**, and **DSA**.  
-- 🤖 Passionate about **Machine Learning** and **Deep Learning**.  
-- 🌱 Learning **cutting-edge technologies** and **building scalable solutions**.  
-- ✍️ Regularly sharing insights on [LinkedIn](https://www.linkedin.com/in/pritishray/).  
-- 🗂️ Check out my [Resume](https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing).  
+- 🛠️ Currently exploring **Unreal Engine 5**, **Operating Systems**, and **DSA**  
+- 🤖 Passionate about **Machine Learning** and **Deep Learning**  
+- 🌱 Learning **cutting-edge technologies** and **building scalable solutions**  
+- ✍️ Regularly sharing insights on [LinkedIn](https://www.linkedin.com/in/pritishray/)  
+- 🗂️ Check out my [Resume](https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing)  
 
 ---
 
 ### 🛠️ Tech Stack:
+
 #### Languages:
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -51,6 +44,15 @@
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+---
+
+### 📊 Real-Time GitHub Dashboard:
+<p align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=77156401" target="_blank">
+    <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77156401&image_size=large&color_scheme=dark" alt="GitHub Dashboard" width="700">
+  </a>
+</p>
 
 ---
 
@@ -82,7 +84,9 @@
 ---
 
 ### ✍️ Random Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
 
 ---
 
