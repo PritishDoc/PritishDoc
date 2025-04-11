@@ -47,9 +47,8 @@
 
 ---
 
-### 📊 Real-Time GitHub Dashboard:
 <p align="center">
-  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77156401&image_size=large&color_scheme=dark" alt="GitHub OSSInsight Dashboard Graph" width="800">
+  <img src="assets/image.png" alt="Real-Time GitHub Dashboard Graph" width="800">
 </p>
 
 ---
