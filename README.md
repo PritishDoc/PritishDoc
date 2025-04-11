@@ -1,3 +1,11 @@
+<!-- GitHub Dashboard by OSSInsight -->
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=77156401" target="_blank" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77156401&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="GitHub Dashboard of Pritish" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=77156401&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Header Image" width="500" height="200">
 </p>
@@ -5,7 +13,6 @@
 <h1 align="center">👋 Hello, I'm Pritish! 👋</h1>
 
 <h3 align="center">A Passionate FullStack Java Developer & Technology Enthusiast</h3>
-
 
 ---
 
@@ -16,7 +23,6 @@
 - 🌱 Learning **cutting-edge technologies** and **building scalable solutions**.  
 - ✍️ Regularly sharing insights on [LinkedIn](https://www.linkedin.com/in/pritishray/).  
 - 🗂️ Check out my [Resume](https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing).  
-  
 
 ---
 
