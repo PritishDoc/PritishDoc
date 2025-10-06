@@ -1,92 +1,96 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Header Image" width="500" height="200">
+  <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Developer.gif" alt="Developer Banner" width="600" height="250">
 </p>
 
-<h1 align="center">👋 Hello, I'm Pritish! 👋</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50;">Pritish Kumar Ray</span>!</h1>
 
-<h3 align="center">A Passionate FullStack Java Developer & Technology Enthusiast</h3>
+<h3 align="center">💻 Software Developer | 🚀 Fullstack Java Engineer | 🤖 ML & Tech Enthusiast</h3>
 
 ---
 
-### 🚀 About Me:
+### 🧠 About Me  
+
 - 🎓 **MCA Graduate (2024)**  
-- 🛠️ Currently exploring **Unreal Engine 5**, **Operating Systems**, and **DSA**  
-- 🤖 Passionate about **Machine Learning** and **Deep Learning**  
-- 🌱 Learning **cutting-edge technologies** and **building scalable solutions**  
-- ✍️ Regularly sharing insights on [LinkedIn](https://www.linkedin.com/in/pritishray/)  
-- 🗂️ Check out my [Resume](https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing)  
+- 💼 Currently working as a **Software Developer**  
+- 🧩 Exploring **Unreal Engine 5**, **Operating Systems**, and **Data Structures & Algorithms (DSA)**  
+- 🤖 Passionate about **Machine Learning**, **Deep Learning**, and **AI-driven systems**  
+- 🌱 Building **real-world projects** that merge creativity, logic, and scalability  
+- 📖 I love sharing knowledge and insights on [LinkedIn](https://www.linkedin.com/in/pritishray/)  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing)  
 
 ---
 
-### 🛠️ Tech Stack:
+### ⚙️ Tech Stack
 
-#### Languages:
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+#### 💬 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frameworks & Libraries:
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat-square&logo=java&logoColor=white)
-![J2EE](https://img.shields.io/badge/-J2EE-007396?style=flat-square&logo=java&logoColor=white)
-![.NET](https://img.shields.io/badge/-DotNet-512BD4?style=flat-square&logo=.net&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-#### Tools:
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+#### 🧰 Frameworks, Libraries & Tools  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Highlights  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pritishdoc&theme=juicyfresh&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pritishdoc&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=141579651" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=141579651&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @PritishDoc" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=141579651&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+### 📊 GitHub Stats  
 
----
-
-### 📈 Contributions Overview:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritishdoc&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pritishdoc&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritishdoc&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pritishdoc&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=141579651&image_size=auto&color_scheme=dark" alt="OSS Insight Stats" width="750">
 </p>
 
 ---
 
-### ✍️ Random Dev Quote:
+### ✨ Dev Quote  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </p>
 
 ---
 
-### 🌐 Connect with Me:
-<p align="left">
+### 🌐 Let’s Connect  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/pritishray/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/__pritish___/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://github.com/pritishdoc" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
+
+<h4 align="center">⚡ “Code. Create. Contribute. Continue.” ⚡</h4>
