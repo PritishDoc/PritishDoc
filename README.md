@@ -108,9 +108,6 @@ Leading applied research initiatives at **DataLet Research Lab**, focusing on da
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1kbus1nzDxRxBEQxOBEIAHFNqm7xMjuyY/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View%20%2F%20Download-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
 </p>
 
 ---
