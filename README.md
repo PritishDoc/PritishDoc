@@ -16,7 +16,7 @@ I'm a **Software Engineer, AI/ML Researcher, and Startup Founder** with a deep f
 
 | Role | Organization |
 |------|-------------|
-| 🚀 **Founder & CEO** | [ProEximaAI Products & Solutions Pvt. Ltd.](https://proeximaai.com) |
+| 🚀 **Founder & CEO** | [ProeximaAI Products & Solutions Pvt. Ltd.](https://proeximaai.com) |
 | 🎓 **Resource Person – AI/ML Integration in Digital Marketing** | IIT Patna |
 | 🔬 **Project Head** | DataLet Research Lab |
 | 💻 **Software Developer** | Industry Practice |
