@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7b2ff7&height=220&section=header&text=PRITISH%20KUMAR%20RAY&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Founder%20%E2%97%86%20AI%2FML%20Researcher%20%E2%97%86%20Systems%20Engineer&descAlignY=56&descSize=17&descColor=cfe8ff&animation=fadeIn" width="100%" />
 
 <a href="https://proeximaai.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=780&lines=Founder+%26+CEO+%40+ProEximaAI;M.Tech+%40+IIT+Patna;AI%2FML+Resource+Person+%40+IIT+Patna;Project+Head+%40+DataLet+Research+Lab;Building+LLM-native+enterprise+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=780&lines=Founder+%26+CEO+%40+ProEximaAI;M.Tech+%40+IIT+Patna;AI%2FML+Resource+Person+%40+IIT+Patna;Corporate+Trainer+%26+Educator;Project+Head+%40+DataLet+Research+Lab;Building+LLM-native+enterprise+systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,6 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=pritishdoc&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" />
 <img src="https://img.shields.io/badge/STATUS-BUILDING-00c6ff?style=for-the-badge" />
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATION-7b2ff7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CORPORATE-TRAINER-00c6ff?style=for-the-badge" />
 
 </div>
 
@@ -23,6 +24,7 @@ $ whoami --verbose
 │  name        : Pritish Kumar Ray                                    │
 │  role        : Founder & CEO — ProEximaAI Products & Solutions      │
 │  education   : M.Tech — Indian Institute of Technology (IIT) Patna  │
+│  also        : Corporate Trainer & Educator — AI/ML · Full-Stack    │
 │  focus       : Applied AI · LLM Systems · Enterprise Engineering    │
 │  mission     : Turn frontier research into production-grade systems │
 │  status      : ONLINE ▸ shipping                                    │
@@ -67,6 +69,24 @@ Leading applied research that closes the gap between published papers and deploy
 Distributed backends, high-throughput services, and the unglamorous plumbing that makes AI usable.
 
 `Spring Boot` `.NET` `Microservices`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎤 Corporate Trainer & Educator
+Training engineering teams and professionals on AI/ML, full-stack development, and modern data systems — hands-on, project-driven, industry-aligned.
+
+`Workshops` `Upskilling` `Bootcamps`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile & Web Product Builder
+Cross-platform apps and production web platforms — from React Native builds to WordPress-scale delivery.
+
+`React` `React Native` `Android` `iOS`
 
 </td>
 </tr>
@@ -119,11 +139,28 @@ flowchart LR
 
 **◤ LANGUAGES ◢**
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,cs,mysql,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,cs,php,js,ts,nodejs,mysql&theme=dark" />
 
-**◤ FRAMEWORKS & PLATFORMS ◢**
+**◤ WEB & MOBILE ◢**
 
-<img src="https://skillicons.dev/icons?i=spring,dotnet,tensorflow,sklearn,opencv,docker,git,unreal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,androidstudio,kotlin,swift,apple,wordpress,html,css&theme=dark" />
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+**◤ AI / ML & DATA ◢**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,mysql,docker,git&theme=dark" />
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Graph_Databases-4581C3?style=for-the-badge&logo=graphql&logoColor=white" />
+
+**◤ ENTERPRISE & ENGINES ◢**
+
+<img src="https://skillicons.dev/icons?i=spring,dotnet,unreal,selenium&theme=dark" />
 
 </div>
 
@@ -131,13 +168,16 @@ flowchart LR
 ai_ml_domains:
   machine_learning:  [supervised, unsupervised, hyperparameter_optimization, ensembles]
   deep_learning:     [CNNs, transformers, transfer_learning, model_compression]
+  frameworks:        [PyTorch, TensorFlow, scikit-learn, OpenCV]
   nlp:               [text_classification, sentiment_analysis, RAG, LLM_orchestration]
   computer_vision:   [object_detection, segmentation, OCR, image_processing]
   ai_for_growth:     [predictive_analytics, personalization, recommender_systems]
 
 engineering:
-  backend:     [Spring Boot, Hibernate, .NET, REST, microservices]
-  data:        [MySQL, SQL optimization, ETL pipelines]
+  backend:     [Spring Boot, Hibernate, .NET, Node.js, PHP, REST, microservices]
+  frontend:    [React, JavaScript, TypeScript, WordPress]
+  mobile:      [React Native, Android (Kotlin/Java), iOS (Swift)]
+  data:        [MySQL, Neo4j, graph modeling, SQL optimization, ETL pipelines]
   automation:  [Selenium, CI/CD, containerized deployments]
 ```
 
