@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0072ff,100:7b2ff7&height=220&section=header&text=PRITISH%20KUMAR%20RAY&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Founder%20%E2%97%86%20AI%2FML%20Researcher%20%E2%97%86%20Systems%20Engineer&descAlignY=56&descSize=17&descColor=cfe8ff&animation=fadeIn" width="100%" />
 
 <a href="https://proeximaai.com">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=780&lines=Founder+%26+CEO+%40+ProEximaAI;AI%2FML+Resource+Person+%40+IIT+Patna;Project+Head+%40+DataLet+Research+Lab;Building+LLM-native+enterprise+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=780&lines=Founder+%26+CEO+%40+ProEximaAI;M.Tech+%40+IIT+Patna;AI%2FML+Resource+Person+%40+IIT+Patna;Project+Head+%40+DataLet+Research+Lab;Building+LLM-native+enterprise+systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,6 +22,7 @@ $ whoami --verbose
 ┌─ IDENTITY ──────────────────────────────────────────────────────────┐
 │  name        : Pritish Kumar Ray                                    │
 │  role        : Founder & CEO — ProEximaAI Products & Solutions      │
+│  education   : M.Tech — Indian Institute of Technology (IIT) Patna  │
 │  focus       : Applied AI · LLM Systems · Enterprise Engineering    │
 │  mission     : Turn frontier research into production-grade systems │
 │  status      : ONLINE ▸ shipping                                    │
@@ -70,6 +71,19 @@ Distributed backends, high-throughput services, and the unglamorous plumbing tha
 </td>
 </tr>
 </table>
+
+---
+
+## ◈ Education
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/M.Tech-IIT%20PATNA-0072ff?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+
+</div>
+
+> **Master of Technology — Indian Institute of Technology (IIT) Patna**
+> Advanced coursework and research in machine learning, deep learning, and large-scale intelligent systems — the foundation behind everything built at ProEximaAI and DataLet Research Lab.
 
 ---
 
